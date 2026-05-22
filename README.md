@@ -39,8 +39,8 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=OleksanderZabila&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=22D3EE&icon_color=D946EF&text_color=E2E8F0" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksanderZabila&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=22D3EE&text_color=E2E8F0" height="160" />
+<img src="https://streak-stats.demolab.com?user=OleksanderZabila&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=22D3EE&ring=D946EF&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E2E8F0&sideNums=E2E8F0&dates=94A3B8" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OleksanderZabila&theme=tokyonight&exclude=&hide_border=true" height="160" />
 
 </div>
 
