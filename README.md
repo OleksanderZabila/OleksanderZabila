@@ -55,7 +55,6 @@
 | 🔒 [Blackout Schedule Bot](https://aleksandr-zabila.onrender.com/) | Telegram bot • 2 100+ daily users • power-outage schedules | Python · asyncio · matplotlib |
 | 🛒 [STO Gerat CRM](https://github.com/OleksanderZabila/gerat) | Auto service CRM: catalog, invoices, shop, analytics | JS · HTML · CSS · Chart.js |
 | 🖥️ [Auto Pidkliuch](https://github.com/OleksanderZabila/DiplomWork) | Desktop inventory system for auto-parts store | Python · PostgreSQL · Tkinter |
-| 🌤️ [Weather Bot](https://github.com/OleksanderZabila/weather_telegram_bot-master) | Telegram weather forecast with visual charts | Python · matplotlib |
 | 🌐 [Portfolio Site](https://github.com/OleksanderZabila/portfolio) | Personal site — Django, dual-theme, GitHub API | Django · Tailwind · JS |
 
 </div>
